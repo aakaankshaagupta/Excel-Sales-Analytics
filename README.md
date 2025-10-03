@@ -30,5 +30,5 @@ Overall, this project aims to empower businesses with the necessary tools and in
 ************************
 
 
-Linkedin Post:https://www.linkedin.com/feed/update/urn:li:activity:7366085094140227584/
-Github: https://github.com/Naveen-S6/AtliQ_Hardware_Sales_Report_Excel/
+Linkedin Post: https://www.linkedin.com/feed/update/urn:li:activity:7366085094140227584/
+Github: https://github.com/aakaankshaagupta/Excel-Sales-Analytics/tree/main
